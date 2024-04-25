@@ -19,27 +19,30 @@ namespace SignalR.DataAccessLayer.Repositories
 
         public void Add(T entity)
         {
-            throw new NotImplementedException();
+            _context.Add(entity);
+            _context.SaveChanges();
         }
 
         public void Delete(T entity)
         {
-            throw new NotImplementedException();
+            _context.Remove(entity);
+            _context.SaveChanges();
         }
 
         public T GetByID(int id)
         {
-            throw new NotImplementedException();
+            return _context.Set<T>().Find(id);
         }
 
         public List<T> GetListAll()
         {
-            throw new NotImplementedException();
+            return _context.Set<T>().ToList();
         }
 
         public void Update(T entity)
         {
-            throw new NotImplementedException();
+            _context.Update(entity);
+            _context.SaveChanges();
         }
     }
 }
