@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace SignalR.DataAccessLayer.Repositories
 {
-    internal class GenericRepository<T> : IGenericDal<T> where T : class
+    public class GenericRepository<T> : IGenericDal<T> where T : class
     {
         private readonly SignalRContext _context;
 

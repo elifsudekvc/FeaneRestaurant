@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SignalR.DataAccessLayer",
+    "\\SignalR.DataAccessLayer\\Concrete",
+    "\\SignalR.DataAccessLayer\\EntityFramework"
+  ],
+  "SelectedNode": "\\SignalR.DataAccessLayer\\EntityFramework",
+  "PreviewInSolutionExplorer": false
+}
