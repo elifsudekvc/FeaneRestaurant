@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace SignalR.DataAccessLayer.EntityFramework
 {
-    public class EfDiscountDal : GenericRepository<Discount>, IDiscountService
+    public class EfDiscountDal : GenericRepository<Discount>, IDiscountDal
     {
         public EfDiscountDal(SignalRContext context) : base(context)
         {

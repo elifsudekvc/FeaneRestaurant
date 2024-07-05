@@ -15,3 +15,4 @@ C:\Users\eskvc\OneDrive\Masaüstü\FeaneRestaurant\SignalR.DataAccessLayer\obj\D
 C:\Users\eskvc\OneDrive\Masaüstü\FeaneRestaurant\SignalR.DataAccessLayer\obj\Debug\net6.0\SignalR.DataAccessLayer.pdb
 C:\Users\eskvc\OneDrive\Masaüstü\FeaneRestaurant\SignalR.DataAccessLayer\obj\Debug\net6.0\SignalR.DataAccessLayer.genruntimeconfig.cache
 C:\Users\eskvc\OneDrive\Masaüstü\FeaneRestaurant\SignalR.DataAccessLayer\obj\Debug\net6.0\ref\SignalR.DataAccessLayer.dll
+C:\Users\eskvc\OneDrive\Masaüstü\FeaneRestaurant\SignalR.DataAccessLayer\obj\Debug\net6.0\SignalR.DataAccessLayer.sourcelink.json
