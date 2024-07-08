@@ -5,5 +5,9 @@
         public int CategoryID { get; set; }
         public string CategoryName { get; set; }
         public bool Status { get; set; }
+
+        //bire çok ilişkisi
+        public List<Product> Products { get; set; }
+
     }
 }
