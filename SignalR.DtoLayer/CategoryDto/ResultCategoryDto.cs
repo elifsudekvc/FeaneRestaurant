@@ -8,6 +8,7 @@ namespace SignalR.DtoLayer.CategoryDto
 {
     public class ResultCategoryDto
     {
+        public string CategoryID { get; set; }
         public string CategoryName { get; set; }
         public bool Status { get; set; }
     }

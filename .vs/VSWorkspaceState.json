@@ -2,6 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\SignalR.DataAccessLayer",
+    "\\SignalR.DataAccessLayer\\Abstract",
     "\\SignalR.DataAccessLayer\\Concrete",
     "\\SignalR.DataAccessLayer\\EntityFramework"
   ],
