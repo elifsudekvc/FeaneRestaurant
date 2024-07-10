@@ -10,6 +10,6 @@
     "\\SignalRWebUI\\Views\\Category",
     "\\SignalRWebUI\\Views\\Shared"
   ],
-  "SelectedNode": "\\SignalRWebUI\\Views\\Shared\\_Layout.cshtml",
+  "SelectedNode": "\\SignalRWebUI\\Views\\Category\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
