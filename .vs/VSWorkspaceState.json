@@ -2,14 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\SignalR.DataAccessLayer",
-    "\\SignalR.DataAccessLayer\\Concrete",
     "\\SignalR.DataAccessLayer\\EntityFramework",
     "\\SignalRWebUI",
     "\\SignalRWebUI\\Views",
     "\\SignalRWebUI\\Views\\AdminLayout",
     "\\SignalRWebUI\\Views\\Category",
-    "\\SignalRWebUI\\Views\\Shared"
+    "\\SignalRWebUI\\Views\\Shared",
+    "\\SignalRWebUI\\Views\\Shared\\Components",
+    "\\SignalRWebUI\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial"
   ],
-  "SelectedNode": "\\SignalRWebUI\\Views\\Category\\Index.cshtml",
+  "SelectedNode": "\\SignalRWebUI\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
   "PreviewInSolutionExplorer": false
 }
