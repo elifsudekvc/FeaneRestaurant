@@ -7,10 +7,11 @@
     "\\SignalRWebUI\\Views",
     "\\SignalRWebUI\\Views\\AdminLayout",
     "\\SignalRWebUI\\Views\\Category",
+    "\\SignalRWebUI\\Views\\Product",
     "\\SignalRWebUI\\Views\\Shared",
     "\\SignalRWebUI\\Views\\Shared\\Components",
     "\\SignalRWebUI\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial"
   ],
-  "SelectedNode": "\\SignalRWebUI\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
+  "SelectedNode": "\\SignalRWebUI\\Views\\Product\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
